@@ -1,0 +1,25 @@
+header{
+  font-family: 'Rajdhani', sans-serif;
+  padding-top: 0px;
+  padding-right: 300px;
+  padding-bottom: 10px;
+  padding-left: 300px;
+}
+
+main{
+    font-family: 'Rajdhani', sans-serif;
+    padding-top: 0px;
+    padding-right: 300px;
+    padding-bottom: 10px;
+    padding-left: 300px;  
+}
+
+p{
+  text-align:left;
+}
+
+footer{
+    font-family: 'Rajdhani', sans-serif;
+    text-align: center;
+  }
+
